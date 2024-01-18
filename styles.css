@@ -1,0 +1,30 @@
+body{
+  background-color: #00FFFF;
+}
+
+p{
+    color: #696969 ;
+font: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+}
+hr{
+    border: 2px solid ;
+}
+b{color: brown;}
+
+#special-bold{color: lightskyblue}
+
+#Special-bolded{
+    color:azure
+}
+#first-par{
+    background-color:cadetblue;
+padding: 25px;
+border: 2px solid; 
+margin: 25px;}
+#second-par{
+background-color:ghostwhite
+}
